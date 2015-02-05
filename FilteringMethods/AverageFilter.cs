@@ -5,6 +5,9 @@ using System.Text;
 
 namespace FilteringMethods
 {
+
+    // average filter
+
     internal class AverageFilter : FilterImpl
     {
         internal AverageFilter(int length)
